@@ -1,0 +1,23 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Learning and practicing JavaScript asynchronous functions such as callbacks, promises and async await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLe27/async-js.git"
+  },
+  "author": "Long Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLe27/async-js/issues"
+  },
+  "homepage": "https://github.com/LLe27/async-js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "typescript": "^3.7.2"
+  }
+}
