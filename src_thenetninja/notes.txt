@@ -1,0 +1,12 @@
+1. What is Asynchronous JavaScript?
+- JavaScript code runs on a single thread (can do 1 thing at a time).
+- Synchronous code waits for 1 action to complete before moving on to the next.
+
+2. AJAX Requests
+- Communicate with a server by making a http request.
+- No need to relouad the page.
+- Stands for: Asynchronous JavaScript And XML.
+
+3. Callback Functions
+
+4. Promises
