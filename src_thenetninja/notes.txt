@@ -10,3 +10,5 @@
 3. Callback Functions
 
 4. Promises
+
+5. Generators
